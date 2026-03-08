@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Nisha Singh
 
-<!--
-**codernisha/codernisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Associate Manager & Full Stack Developer at Tredence  
+💻 5+ Years Experience in Full Stack Development  
+📊 Working on AI based Workforce Optimization & Data Platforms
 
-Here are some ideas to get you started:
+## Tech Stack
+- Node.js
+- React
+- Python
+- PostgreSQL
+- MongoDB
+- Docker
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+🔹 AI Recommendation Engine  
+🔹 Workforce Planning Platform  
+🔹 Data Engineering Pipelines
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/nishantmar1998/
+Portfolio: <your website>
+Email: nishantmar1998@gmail.com
